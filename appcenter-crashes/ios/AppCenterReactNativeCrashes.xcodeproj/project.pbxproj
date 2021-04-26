@@ -260,6 +260,7 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = AppCenterReactNativeCrashes;
 				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2,6";
 			};
 			name = Debug;
 		};
@@ -282,6 +283,7 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = AppCenterReactNativeCrashes;
 				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2,6";
 			};
 			name = Release;
 		};

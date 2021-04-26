@@ -246,6 +246,7 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2,6";
 				USER_HEADER_SEARCH_PATHS = "$(SRCROOT)/../../AppCenterReactNativeShared/ios/AppCenterReactNativeShared";
 			};
 			name = Debug;
@@ -269,6 +270,7 @@
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2,6";
 				USER_HEADER_SEARCH_PATHS = "$(SRCROOT)/../../AppCenterReactNativeShared/ios/AppCenterReactNativeShared";
 			};
 			name = Release;
